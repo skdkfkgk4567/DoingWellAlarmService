@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/ic_map"
+        android:enabled="true"
+        android:title="Location" />
+    <item
+        android:id="@+id/friendlist"
+        android:icon="@drawable/ic_action_name"
+        android:enabled="true"
+        android:title="FriendList" />
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/firestation"
+        android:enabled="true"
+        android:title="Call" />
+    <item
+        android:id="@+id/hospital"
+        android:icon="@drawable/hospital_marker_red"
+        android:enabled="true"
+        android:title="Hospital" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:enabled="true"
+        android:title="Setting" />
+
+</menu>
